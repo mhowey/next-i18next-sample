@@ -1,0 +1,26 @@
+{
+  "name": "next-i18next-with-materialui",
+  "version": "1.0.0",
+  "main": "server.js",
+  "license": "ISC",
+  "scripts": {
+    "dev": "node server.js",
+    "build": "next build",
+    "start": "NODE_ENV=production node server.js"
+  },
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "express": "latest",
+    "jss": "latest",
+    "next": "^7.0.1",
+    "next-i18next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-jss": "latest",
+    "styled-jsx": "latest"
+  },
+  "keywords": ["apollo", "material-ui", "i18next", "next-i18next"],
+  "author": "",
+  "description": null
+}
